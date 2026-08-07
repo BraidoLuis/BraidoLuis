@@ -1,29 +1,31 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Luis Braido
+# 👋 Olá! Eu sou o Luis Felipe dos Santos Braido
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Shopify+Developer;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Shopify+Developer;Sempre+aprendendo+algo+novo!" />
+
+### Desenvolvedor Full Stack • Engenharia de Software • Desenvolvimento Web
 
 </div>
 
 ---
 
-## 💻 Sobre mim
+# 💻 Sobre mim
 
-Sou desenvolvedor Full Stack apaixonado por criar aplicações modernas, performáticas e escaláveis.
+Sou desenvolvedor Full Stack apaixonado por transformar ideias em aplicações modernas, performáticas e bem estruturadas.
 
-Tenho experiência com desenvolvimento Web utilizando React, Next.js, TypeScript, Node.js e também com desenvolvimento e customização de lojas Shopify.
+Tenho experiência no desenvolvimento de aplicações web utilizando React, Next.js, TypeScript, Node.js e Supabase, além de atuar com customizações avançadas em Shopify.
 
-Atualmente venho desenvolvendo projetos completos, desde a interface até integrações com banco de dados, autenticação, APIs e deploy.
+Atualmente venho aprofundando meus conhecimentos em arquitetura de software, desenvolvimento de aplicações escaláveis e boas práticas de engenharia.
 
 ---
 
-## 🚀 Atualmente
+# 🚀 Atualmente
 
-- 💼 Desenvolvedor Full Stack
-- 🛒 Desenvolvimento Shopify
-- 🌱 Estudando Docker, Kubernetes, Linux e Arquitetura de Software
-- 🎯 Buscando evoluir constantemente como Engenheiro de Software
+- 💻 Desenvolvendo aplicações Full Stack
+- 🛒 Desenvolvimento de lojas Shopify
+- 📚 Estudando Docker, Kubernetes e Linux
+- 🎯 Em busca de oportunidades para crescer como Engenheiro de Software
 
 ---
 
@@ -37,7 +39,7 @@ Atualmente venho desenvolvendo projetos completos, desde a interface até integr
 
 ---
 
-# 📚 Atualmente estudando
+# 📖 Atualmente estudando
 
 <div align="center">
 
@@ -50,39 +52,45 @@ Atualmente venho desenvolvendo projetos completos, desde a interface até integr
 - Linux
 - Cloud Computing
 - Arquitetura de Software
-- Open Finance APIs
+- Open Finance
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos
 
-### 🏛️ NB Arquitetura
+## 🏛️ NB Arquitetura
 
-Portfólio profissional desenvolvido em Next.js com foco em performance, SEO e experiência do usuário.
+Portfólio profissional desenvolvido com foco em:
+
+- Next.js
+- React
+- TypeScript
+- SEO
+- Performance
+- Design Responsivo
 
 ---
 
-### 🍰 FriBolos
+## 🍰 FriBolos
 
-Sistema SaaS completo para gerenciamento de confeitaria.
+Sistema SaaS para gerenciamento de confeitaria.
 
-Funcionalidades:
+Principais funcionalidades:
 
 - Área Administrativa
 - Área do Cliente
-- Catálogo
+- Controle de Estoque
 - Pedidos
-- Estoque
 - Financeiro
 - Dashboard
-- Stripe
 - Supabase
+- Stripe
 
 ---
 
-### 💆 SPA Express Cambucas
+## 💆 SPA Express Cambucas
 
-Sistema Web moderno desenvolvido utilizando:
+Sistema web moderno desenvolvido utilizando:
 
 - Next.js
 - React
@@ -90,35 +98,24 @@ Sistema Web moderno desenvolvido utilizando:
 
 ---
 
-### 🛒 Shopify Development
+## 🛒 Shopify Development
 
-Customizações avançadas para lojas Shopify:
+Desenvolvimento de funcionalidades para lojas Shopify.
 
-- Sections
+Experiência com:
+
 - Liquid
-- Metaobjects
+- Sections
 - Metafields
+- Metaobjects
 - APIs
 - SEO
 - Performance
 - UX
-- Componentes reutilizáveis
 
 ---
 
-# 📈 GitHub Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BraidoLuis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraidoLuis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
+# 📊 Contribuições
 
 <div align="center">
 
@@ -128,11 +125,9 @@ Customizações avançadas para lojas Shopify:
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BraidoLuis&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BraidoLuis&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -142,11 +137,17 @@ Customizações avançadas para lojas Shopify:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-felipe-braido-857a28352/)
+<a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-braido-857a28352/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_braido/)
+<a href="mailto:felipebraido11@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebraido11@outlook.com)
+<a href="https://www.instagram.com/luis_braido/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -154,7 +155,7 @@ Customizações avançadas para lojas Shopify:
 
 <div align="center">
 
-### ⭐ "A melhor forma de aprender é construindo projetos reais."
+### 💡 "A melhor forma de aprender é construindo projetos reais."
 
 Obrigado pela visita! 🚀
 
