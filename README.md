@@ -56,48 +56,6 @@ Atualmente venho aprofundando meus conhecimentos em arquitetura de software, des
 
 ---
 
-# 🚀 Projetos
-
-## 🏛️ NB Arquitetura
-
-Portfólio profissional desenvolvido com foco em:
-
-- Next.js
-- React
-- TypeScript
-- SEO
-- Performance
-- Design Responsivo
-
----
-
-## 🍰 FriBolos
-
-Sistema SaaS para gerenciamento de confeitaria.
-
-Principais funcionalidades:
-
-- Área Administrativa
-- Área do Cliente
-- Controle de Estoque
-- Pedidos
-- Financeiro
-- Dashboard
-- Supabase
-- Stripe
-
----
-
-## 💆 SPA Express Cambucas
-
-Sistema web moderno desenvolvido utilizando:
-
-- Next.js
-- React
-- TypeScript
-
----
-
 ## 🛒 Shopify Development
 
 Desenvolvimento de funcionalidades para lojas Shopify.
