@@ -56,23 +56,6 @@ Atualmente venho aprofundando meus conhecimentos em arquitetura de software, des
 
 ---
 
-## 🛒 Shopify Development
-
-Desenvolvimento de funcionalidades para lojas Shopify.
-
-Experiência com:
-
-- Liquid
-- Sections
-- Metafields
-- Metaobjects
-- APIs
-- SEO
-- Performance
-- UX
-
----
-
 # 📊 Contribuições
 
 <div align="center">
